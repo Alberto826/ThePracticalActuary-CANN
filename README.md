@@ -1,2 +1,3 @@
-# The-Practical-Actuary
-This repository contains tutorials and code relating to application of Actuarial Data Science
+# Tutorial - Combined Actuarial Neural Networks
+This repository contains code showing how to build a Combined Actuarial Neural Network model in python.
+The model is built on the freMTPL2freq dataset.
