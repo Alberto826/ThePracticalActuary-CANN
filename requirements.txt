@@ -13,6 +13,7 @@ polars
 pandas
 pyarrow==16.0.0
 nbformat
+ipywidgets
 --extra-index-url https://download.pytorch.org/whl/cu124
 torch==2.5.1 
 pytorch-lightning
