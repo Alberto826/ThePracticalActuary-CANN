@@ -2,7 +2,7 @@
 This repository contains code showing how to build a Combined Actuarial Neural Network model in python.
 The model is built on the freMTPL2freq dataset.
 
-I have created some videos that go through the Tutorial:
+I have created some videos that go with this Tutorial:
 
 Part 1: Paper overview 
 https://youtu.be/G6TWGUrd3cs?si=658eiM0GBnDcGMVd
